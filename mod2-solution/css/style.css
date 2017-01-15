@@ -5,16 +5,20 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  font-family: Nunito;
 }
 
-section{
+body {
+  font-family: 'Nunito', cursive, sans-serif;
+}
+
+section {
   overflow: hidden;
 }
 
 h1 {
   margin: 30px 15px 15px;
   text-align: center;
+  font-size: 1.75em;
 }
 
 h2 {
@@ -22,6 +26,7 @@ h2 {
   float: right;
   min-width: 150px;
   text-align: center;
+  font-size: 1.25em;
 }
 
 p {
@@ -47,10 +52,10 @@ p {
 }
 
 /* debug */
-  .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6,
-  .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
-    /*border: 1px solid lightgray;*/
-  }
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6,
+.col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+  /*border: 1px solid lightgray;*/
+}
 
 /* Simple Responsive Framework. */
 .row {
