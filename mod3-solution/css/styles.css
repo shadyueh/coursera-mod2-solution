@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+  font-family: 'Nunito', cursive, sans-serif;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.nav {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nav li {
+    margin-bottom: -1px;
+    border-bottom: 1px solid #ddd;
+}
+
+.col-xs-12  {
+  background-color: #999;
+  border: 1px solid black;
+}
+
+@media (max-width: 767px) {
+    #my-content  {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
