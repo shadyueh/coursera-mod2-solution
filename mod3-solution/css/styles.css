@@ -4,6 +4,14 @@ body {
   font-family: 'Nunito', cursive, sans-serif;
 }
 
+section  {
+  background-color: #999;
+  border: 1px solid black;
+  padding: 10px;
+  overflow: auto;
+  height: 700px;
+}
+
 .navbar {
   border-radius: 0;
 }
@@ -19,13 +27,5 @@ body {
 }
 
 .col-xs-12  {
-  background-color: #999;
-  border: 1px solid black;
-}
-
-@media (max-width: 767px) {
-    #my-content  {
-        padding-right: 40px;
-        padding-left: 40px;
-    }
+    padding: 10px 20px;
 }
