@@ -6,3 +6,7 @@
 
 [Module 2 Solution](https://shadyueh.github.io/jhu-fullstack-course4/mod2-solution/)
 
+[Module 3 Solution](https://shadyueh.github.io/jhu-fullstack-course4/mod3-solution/)
+
+[Module 4 Solution](https://shadyueh.github.io/jhu-fullstack-course4/mod4-solution/)
+
