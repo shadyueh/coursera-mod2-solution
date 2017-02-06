@@ -10,3 +10,4 @@
 
 [Module 4 Solution](https://shadyueh.github.io/jhu-fullstack-course4/mod4-solution/)
 
+[Module 5 Solution](https://shadyueh.github.io/jhu-fullstack-course4/mod5-solution/)
